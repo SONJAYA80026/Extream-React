@@ -1,11 +1,24 @@
-**Reasons for making this change:**
+<!--
+What GitHub Desktop issue does this PR address? (for example, #1234)
+-->
 
-_TODO_
+Closes #[issue number]
 
-**Links to documentation supporting these rule changes:**
+## Description
 
-_TODO_
+-
 
-If this is a new template:
+### Screenshots
 
- - **Link to application or project’s homepage**: _TODO_
+<!--
+If this PR touches the UI layer of the app, please include screenshots or animated gifs to show the changes.
+-->
+
+## Release notes
+
+<!--
+You can leave this blank if you're not sure.
+If you don't believe this PR needs to be mentioned in the release notes, write "Notes: no-notes".
+-->
+
+Notes:
